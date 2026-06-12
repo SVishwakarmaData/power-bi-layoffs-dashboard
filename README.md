@@ -4,7 +4,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-06-12 155855.png)
+![Dashboard Screenshot](dashboard_screenshort.png)
 
 ## 📌 Project Overview
 

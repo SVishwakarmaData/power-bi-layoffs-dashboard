@@ -4,7 +4,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshort.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📌 Project Overview
 
